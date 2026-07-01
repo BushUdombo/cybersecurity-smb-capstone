@@ -137,7 +137,7 @@ cybersecurity-smb-capstone/
 
 ## Author
 
-**Bush Udombo**
+**Ukoh Udombo**
 
 Cybersecurity NextGen Cohort
 
